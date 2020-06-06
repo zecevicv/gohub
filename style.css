@@ -853,6 +853,7 @@ body.no-scroll .header {
 
 .service {
   text-align: center;
+  backface-visibility: hidden;
 }
 
 .service img {
